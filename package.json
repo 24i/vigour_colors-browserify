@@ -1,0 +1,28 @@
+{
+  "name": "colors-browserify",
+  "version": "0.0.1",
+  "description": "colors for the browser",
+  "main": "index.js",
+  "browserify": "browser.js",
+  "directories": {
+    "lib": "."
+  },
+  "dependencies": {
+    "colors": "~1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vigour-io/colors-browserify.git"
+  },
+  "keywords": [
+    "colors",
+    "browserify",
+    "compatible",
+    "browser"
+  ],
+  "author": {
+    "name": "Jim de Beer",
+    "email": "jim@vigour.io",
+  },
+  "license": "MIT"
+}
