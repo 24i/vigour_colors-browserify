@@ -1,6 +1,6 @@
 {
   "name": "colors-browserify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "colors for the browser",
   "main": "index.js",
   "browserify": "browser.js",

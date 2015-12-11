@@ -1,4 +1,4 @@
-#colors-browserify
+# colors-browserify
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![npm version](https://badge.fury.io/js/colors-browserify.svg)](https://badge.fury.io/js/colors-browserify)
 
