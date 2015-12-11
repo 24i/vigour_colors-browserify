@@ -24,5 +24,15 @@
     "name": "Jim de Beer",
     "email": "jim@vigour.io"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "standard": {
+    "globals": [
+      "describe",
+      "it",
+      "beforeEach",
+      "sinon",
+      "expect",
+      "xit"
+    ]
+  }
 }
